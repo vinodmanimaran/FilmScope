@@ -5,8 +5,9 @@ Features:
 Modern and responsive UI design
 Dark and light mode options for comfortable viewing
 Multiple pages for browsing and discovering movies
-Getting Started
-To use this UI design for your own movie website project, simply clone this repository and customize the code as needed. You can also explore the code to learn how the design was created.  https://github.com/your-username/movie-website.git
+
+Getting Started:
+To use this UI design for your own movie website project, simply clone this repository and customize the code as needed. You can also explore the code to learn how the design was created.  https://github.com/vinodmanimaran/Movie-Website
 
 Usage:
 To view the movie website UI design, simply open the index.html file in your web browser. You can also navigate to the different pages by clicking on the links in the navigation bar.
